@@ -9,5 +9,7 @@
 
 <hr/>
 
-## 
+## Articles
+
+* [This One Simple Question Will Reveal What Kind Of Developer You Are](articles/what-kind-of-developer)
 
