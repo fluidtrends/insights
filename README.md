@@ -11,7 +11,7 @@
 
 ## Articles
 
-[![](articles/what-kind-of-developer/image-small.png)](articles/what-kind-of-developer)
+[![](https://s3.amazonaws.com/data.fluidtrends.com/images/painting-small.png)](articles/what-kind-of-developer)
 
 [This One Simple Question Will Reveal What Kind Of Developer You Are](articles/what-kind-of-developer)
 

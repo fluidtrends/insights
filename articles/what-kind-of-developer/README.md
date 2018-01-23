@@ -1,4 +1,4 @@
-[![](image-small.png)]()
+[![](https://s3.amazonaws.com/data.fluidtrends.com/images/painting-small.png)]()
 
 # This One Simple Question Will Reveal What Kind Of Developer You Are
 
