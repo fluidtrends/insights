@@ -1,3 +1,5 @@
+[![](image-small.png)]()
+
 # This One Simple Question Will Reveal What Kind Of Developer You Are
 
 ## I must’ve asked this question a thousand times. Maybe more.
